@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.89.1.24157/CodexSetup-arm64-1.89.1.24157.exe",
-  "name": "1.89.1.24157",
-  "version": "71ea36cec780c01d8ee4a0ed24ff7a2aa3869601",
-  "productVersion": "1.89.1.24157",
-  "hash": "bfd190632c1c0ccad9f87460f4ec174b4653cd66",
-  "timestamp": "1717596747604",
-  "sha256hash": "81cf8cbc03bed8618a236f980e7797e08026dc3fcf9678fb15b28472ad0e86bd"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.90.0.24165/CodexSetup-arm64-1.90.0.24165.exe",
+  "name": "1.90.0.24165",
+  "version": "4a587ab3ccb89a99005dfe8a6b0ec4b2e7ecbef5",
+  "productVersion": "1.90.0.24165",
+  "hash": "968f4fc0776018e146123ad625e3c39ef11b6d8c",
+  "timestamp": "1718241480576",
+  "sha256hash": "91ef9032c76bd8de8b3dd0bd8727519f7eb3105fc30fcc85fa88d198723286ca"
 }

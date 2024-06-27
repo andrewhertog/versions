@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.90.0.24165/Codex-linux-x64-1.90.0.24165.tar.gz",
-  "name": "1.90.0.24165",
-  "version": "4a587ab3ccb89a99005dfe8a6b0ec4b2e7ecbef5",
-  "productVersion": "1.90.0.24165",
-  "hash": "a0e0e81c234f202506d4354bbc3abfcc32a978bc",
-  "timestamp": "1718240863766",
-  "sha256hash": "b08e4e125083c271ba2f4ab1f30fee72fce6745ab3bd67e74fae57e52b480fb2"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.90.2.24179/Codex-linux-x64-1.90.2.24179.tar.gz",
+  "name": "1.90.2.24179",
+  "version": "2c22626740aea9328b7c683fcc4e9181220446c5",
+  "productVersion": "1.90.2.24179",
+  "hash": "58ec33ed785629e47de895d1e6766d0a6d1af6a3",
+  "timestamp": "1719520992049",
+  "sha256hash": "294c119aee3d5735cc0fc8ad8e770de7c9b8e2e43fce23cee8ba66cd19004084"
 }

@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.90.2.24187/Codex-x64-updates-disabled-1.90.2.24187.msi",
-  "name": "1.90.2.24187",
-  "version": "901b5e6882a3d4ecf70175d54ea11ef2ec7b5f30",
-  "productVersion": "1.90.2.24187",
-  "hash": "0420af5efd7a4042322f93ef6a2082fb3025aaa4",
-  "timestamp": "1720209570899",
-  "sha256hash": "8cf443af5755bcd285e53c31b218a51ef8a32bed3788d77bd658880b0f01ef91"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.91.1.24199/Codex-x64-updates-disabled-1.91.1.24199.msi",
+  "name": "1.91.1.24199",
+  "version": "a42c1bbb6d15dabf0636deb21e33aae9be085b76",
+  "productVersion": "1.91.1.24199",
+  "hash": "f92053bcfd277295f51c9cda9f7ffb9559c2a90f",
+  "timestamp": "1721178774996",
+  "sha256hash": "b29e792a596fbfcdfb8e1ed0732c43524f21330ec62a5c3b71dfab7b70174d37"
 }

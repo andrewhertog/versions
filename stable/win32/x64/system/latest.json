@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.91.1.24241/CodexSetup-x64-1.91.1.24241.exe",
-  "name": "1.91.1.24241",
-  "version": "e97f94386ec6841f18ce02e4471de43708d3bafe",
-  "productVersion": "1.91.1.24241",
-  "hash": "4c402e3f361f4ae548bfbee54cdc7cd9626a0e11",
-  "timestamp": "1724859177085",
-  "sha256hash": "69f7faa469685f96a42f11271ce5ecdfc87991d338086ca78201cd735cd8f1a0"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.92.2.24242/CodexSetup-x64-1.92.2.24242.exe",
+  "name": "1.92.2.24242",
+  "version": "c427611c50c1af60c6afd090da2b33044cfe3a7a",
+  "productVersion": "1.92.2.24242",
+  "hash": "dec95cae5c456f985cf7395f2818c41b8ec63c2c",
+  "timestamp": "1724893671325",
+  "sha256hash": "6ca18cbee1f2309d856f4a9396b3a3346aa52f97af6a097f8d06b015a1c2ca73"
 }

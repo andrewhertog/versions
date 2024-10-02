@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.92.2.24242/Codex-linux-arm64-1.92.2.24242.tar.gz",
-  "name": "1.92.2.24242",
-  "version": "c427611c50c1af60c6afd090da2b33044cfe3a7a",
-  "productVersion": "1.92.2.24242",
-  "hash": "092ab397b03c89f1cef294093e60abe6d0ae15c3",
-  "timestamp": "1724892640183",
-  "sha256hash": "acc26f275fcd4780a6314a77b075f366e2280f33a7a6ec19ce9683dc1edb98e6"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.93.1.24276/Codex-linux-arm64-1.93.1.24276.tar.gz",
+  "name": "1.93.1.24276",
+  "version": "1acaeeee508e368906301d721bcb57905a724a22",
+  "productVersion": "1.93.1.24276",
+  "hash": "6960489b84dc91b6b8cec8e1b24d932149c3bcce",
+  "timestamp": "1727893430904",
+  "sha256hash": "7ee02e50a84e6f3e531e59cca59e78f082ac23b081d767a1a2300eece4918998"
 }

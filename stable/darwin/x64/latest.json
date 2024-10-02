@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.93.0.24261/Codex-darwin-x64-1.93.0.24261.zip",
-  "name": "1.93.0.24261",
-  "version": "b8dad921911d2054c7c527f5527b2a71419fffe9",
-  "productVersion": "1.93.0.24261",
-  "hash": "20b14db0c9fc030930fc5fab00e1c5e0cc45adc0",
-  "timestamp": "1726583785639",
-  "sha256hash": "0186453fcebc632c1377ced6c4aba4e6e1f5b885f81f2655fede28f29053714e"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.93.1.24276/Codex-darwin-x64-1.93.1.24276.zip",
+  "name": "1.93.1.24276",
+  "version": "1acaeeee508e368906301d721bcb57905a724a22",
+  "productVersion": "1.93.1.24276",
+  "hash": "73f4cd06867805431a8671882f19ebd1aee13447",
+  "timestamp": "1727891698756",
+  "sha256hash": "1d67c22773413c3963ad0a7f7db4649bc41dc208884c780f1979de1bc1d5e1b6"
 }

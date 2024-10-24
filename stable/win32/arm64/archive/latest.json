@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.93.1.24276/Codex-win32-arm64-1.93.1.24276.zip",
-  "name": "1.93.1.24276",
-  "version": "1acaeeee508e368906301d721bcb57905a724a22",
-  "productVersion": "1.93.1.24276",
-  "hash": "957e25b502b7cc4a4d5c587c020a13913f886f48",
-  "timestamp": "1727893768836",
-  "sha256hash": "e664125cdfe6a1791f307e40b6ece3181c22b52d78593e51973db20292b5c103"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.94.2.24298/Codex-win32-arm64-1.94.2.24298.zip",
+  "name": "1.94.2.24298",
+  "version": "f418c17679cd6cce5dab728322440346a756a92c",
+  "productVersion": "1.94.2.24298",
+  "hash": "e8014fffeaf3c857498d8ff36721c41a4a212c37",
+  "timestamp": "1729730708281",
+  "sha256hash": "faed6e54ddbcf3c72bf196a9ca75ec080f6f042c7c264c9df0e683edc3eafef6"
 }

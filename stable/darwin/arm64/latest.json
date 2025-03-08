@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.97.0.25045/Codex-darwin-arm64-1.97.0.25045.zip",
-  "name": "1.97.0.25045",
-  "version": "766b4066bb5e136423d51e65c51eeb55f065efe0",
-  "productVersion": "1.97.0.25045",
-  "hash": "5800dee161e53098d45a2a7074aa1ba5e1dd01c9",
-  "timestamp": "1739548427194",
-  "sha256hash": "e9740d6af3441746f77d0c904a42a8d8d287c9a0faee6a412f56a27587abb3a6"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.97.2.25067/Codex-darwin-arm64-1.97.2.25067.zip",
+  "name": "1.97.2.25067",
+  "version": "c583eecd12ae670670baf1aaf57b0ab11822279a",
+  "productVersion": "1.97.2.25067",
+  "hash": "1da138bfb9b1c076a00553a0b308ed2f46efe4a4",
+  "timestamp": "1741464060321",
+  "sha256hash": "58bf0a5d6ec01c31cd0c9d11b7660c34aded46df3c87cb9e613c19291317e4e3"
 }

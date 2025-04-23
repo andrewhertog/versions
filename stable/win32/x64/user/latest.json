@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.97.0.25045/CodexUserSetup-x64-1.97.0.25045.exe",
-  "name": "1.97.0.25045",
-  "version": "766b4066bb5e136423d51e65c51eeb55f065efe0",
-  "productVersion": "1.97.0.25045",
-  "hash": "a06ab025f10d8efcc86e9214f648b42f42b9b41b",
-  "timestamp": "1739549693847",
-  "sha256hash": "e9f023a8b6114d835f4189b7da030af8b2d24ac4ec1cf7f8a15bac4c14566070"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.99.22711/CodexUserSetup-x64-1.99.22711.exe",
+  "name": "1.99.22711",
+  "version": "548e13a8644cbd490c97227e6eec4d32f5d9d364",
+  "productVersion": "1.99.22711.0",
+  "hash": "675ca1ab4f2747c3fb2760c27c9ecb762d3472f0",
+  "timestamp": "1745368323494",
+  "sha256hash": "6845976ebab73e6dcb5ef8d926faba3bc619d7bab07be821a535b1d1bde341b4"
 }

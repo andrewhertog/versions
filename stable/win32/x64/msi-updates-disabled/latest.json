@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.100.06240/Codex-x64-updates-disabled-1.100.06240.msi",
-  "name": "1.100.06240",
-  "version": "e6e6096a5ddfb2a8cc4bcc8c64911a8a996c3b10",
-  "productVersion": "1.100.6240.0",
-  "hash": "6c3756187cfa97771b41e970ad392749101d8887",
-  "timestamp": "1758072825353",
-  "sha256hash": "a2b751480782dcc97bbaa6df59bf82463aadc75b47a2d8ac3e16a8e44c6dfc1a"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.100.06378/Codex-x64-updates-disabled-1.100.06378.msi",
+  "name": "1.100.06378",
+  "version": "1873caf8e08787027c913943eeb58c340e0a25a2",
+  "productVersion": "1.100.6378.0",
+  "hash": "cb379be336df748daf7e1b44c6a1ae33750b6b8a",
+  "timestamp": "1758568033110",
+  "sha256hash": "35c29784d4e772d13195f288c22869f85a6ad53e91eb341361b3a3a74ee0a116"
 }

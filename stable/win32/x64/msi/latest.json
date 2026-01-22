@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.100.06378/Codex-x64-1.100.06378.msi",
-  "name": "1.100.06378",
-  "version": "1873caf8e08787027c913943eeb58c340e0a25a2",
-  "productVersion": "1.100.6378.0",
-  "hash": "a6bd2396a9df773d71f570877e212abd237cb78f",
-  "timestamp": "1758568032891",
-  "sha256hash": "76ee22b51460bd553cd5ea1db33edb97d22696d03431c95b6085a7d67cec9dec"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.100.00541/Codex-x64-1.100.00541.msi",
+  "name": "1.100.00541",
+  "version": "589dceafa8bd0bfc9e37adfff8b3d8ddd0982b12",
+  "productVersion": "1.100.541.0",
+  "hash": "94a3071ea602a8bd45709e02ec93c91b1243f2e7",
+  "timestamp": "1769090917409",
+  "sha256hash": "efccf51cfffa5cd2649c3c118d8230c0a5b0bf73078525bc506f13401dc74924"
 }

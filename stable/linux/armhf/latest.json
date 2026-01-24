@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/andrewhertog/codex/releases/download/1.99.23136/Codex-linux-armhf-1.99.23136.tar.gz",
-  "name": "1.99.23136",
-  "version": "bb81abe90fb5206544ddf40409b722c0764524b7",
-  "productVersion": "1.99.23136.0",
-  "hash": "87fbcc4abd6e747430fdc40bf6b06d9f0e80faf8",
-  "timestamp": "1746897108787",
-  "sha256hash": "1c703714395ce7d353a4086e0e96933de4f040153958510d0a09af69cb53825f"
+  "url": "https://github.com/andrewhertog/codex/releases/download/1.108.10578/Codex-linux-armhf-1.108.10578.tar.gz",
+  "name": "1.108.10578",
+  "version": "30fef667a9d4668d9eed9417ef1cfc8482e3b2db",
+  "productVersion": "1.108.10578.0",
+  "hash": "50f18f8c2702663c152c030d6b7811c6109c9640",
+  "timestamp": "1769285958791",
+  "sha256hash": "1d0b7896ac362b92f0ccb1f4fb9e4c65aa747ca394dc16f8132020a725b019bd"
 }
